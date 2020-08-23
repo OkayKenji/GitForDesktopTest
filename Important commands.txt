@@ -6,3 +6,4 @@ git log -2 => Log of changes.
 clear      => Clears screen
 git push origin master => Update to GitHub*
 *Log in may be required.
+git pull origin master -> Update.
