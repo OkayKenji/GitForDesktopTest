@@ -1,6 +1,6 @@
 //FizzBuzz is a game where you count up from 0.
-//However when you reach a number that is a mutiple of 3 you say Fizz
-//                                          mutiplee of 5 you say Buzz
+//However when you reach a number that is a multiple of 3 you say Fizz
+//                                          multiple of 5 you say Buzz
 //                                                     both you say FizzBuzz
 //This is inspired by the video by Tom Scott 
 //See his video here:https://www.youtube.com/watch?v=QPZ0pIK_wsc
