@@ -1,4 +1,4 @@
-git clone <link ti guthub repository> => Clones the repository> locally
+git clone <link ti guthub repository> => Clones the repository locally
 git status => Status 
 cd  <name> => Go into it.
 git commit -a -m "<message>" => Commits all files.
@@ -7,3 +7,4 @@ clear      => Clears screen
 git push origin master => Update to GitHub*
 *Log in may be required.
 git pull origin master -> Update.
+git init => Create a new local repository. 
