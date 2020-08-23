@@ -1,0 +1,1 @@
+git clone <link ti guthub repository> => Clones the repository> locally
