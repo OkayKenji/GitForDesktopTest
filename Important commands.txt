@@ -4,4 +4,5 @@ cd  <name> => Go into it.
 git commit -a -m "<message>" => Commits all files.
 git log -2 => Log of changes.
 clear      => Clears screen
-git push origin master => Update to GitHub
+git push origin master => Update to GitHub*
+*Log in may be required.
