@@ -9,3 +9,22 @@ git push origin master => Update to GitHub*
 git pull origin master => Update.
 git init => Create a new local repository. 
 git remote add origin <link> => Pushing new repository to GitHub
+
+Commands to "log in"
+- git config --global user.name "Name"
+- git config --global user.email "email@email.com"
+- git config --list
+
+Creating a repository via GitHub
+- Create a repository by clicking add. Initialize with a readme file.
+- Enter 'git clone [url of repository on github.com].git' in the command line.
+- Wait, should 'download' a file. 
+- Make sure you are in the directory (file).
+- Make the change
+- Enter 'git commit -a -m "<message>"'
+- git push origin master
+- Log in if requested.
+
+Creating a repository via desktop
+- Enter 'git init'
+- Enter 'git add [name of file]'
