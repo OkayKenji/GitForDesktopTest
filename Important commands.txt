@@ -1,4 +1,4 @@
-git clone <link ti guthub repository> => Clones the repository locally
+git clone <link to github repository> => Clones the repository locally
 git status => Status 
 cd  <name> => Go into it.
 git commit -a -m "<message>" => Commits all files.
