@@ -28,3 +28,6 @@ Creating a repository via GitHub
 Creating a repository via desktop
 - Enter 'git init'
 - Enter 'git add [name of file]'
+- Create an empty repository (no readme file)
+- git remote add origin [url of repository on github.com].git
+- git push origin master
